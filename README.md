@@ -32,4 +32,4 @@
 
 ---
 
-Greasy Fork页面：https://greasyfork.org/zh-CN/scripts/550245/
+更多信息请访问 Greasy Fork 页面：https://greasyfork.org/zh-CN/scripts/550245/
